@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vinay Panchal",
+    "description": "",
+    "home_page_url": "https://vinaynpp.github.io/portfolio",
+    "feed_url": "https://vinaynpp.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vinay Panchal"
+    },
+    "items": [
+    ]
+}
